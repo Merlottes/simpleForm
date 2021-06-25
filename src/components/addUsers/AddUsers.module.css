@@ -1,0 +1,19 @@
+.card{
+    margin-top: 1rem;
+    margin-left:10%;
+    width: 80%;
+}
+.form{
+    display: flex;
+    flex-direction: column; 
+    margin: 20px;
+    width: auto;
+}
+.label{
+    color:black;
+    font-weight:bolder;
+}
+.input{
+    margin-bottom: 1rem;
+    outline: none;
+}

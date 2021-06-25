@@ -1,0 +1,10 @@
+.button{
+    width:fit-content;
+    background-color: rgb(136, 49, 136);
+    border: 1px solid rgb(75, 4, 75);
+    color:white;
+    padding: 0.5rem;
+}
+.button:hover{
+    transform: scale(1.1);
+}
